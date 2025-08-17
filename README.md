@@ -27,4 +27,8 @@ The dataset contains information on:
 Interactive Tableau Storyboard:  
 [Rockbuster Stealth Tableau Dashboard](https://public.tableau.com/views/Task_3_10SQL_17501078087510/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
+**Alexandru Cojocari**  
+- **Email:** datadrivenalex@gmail.com  
+- **LinkedIn:** [Alexandru Cojocari](https://www.linkedin.com/in/alexandru-cojocari-35450a354/)
+
 
