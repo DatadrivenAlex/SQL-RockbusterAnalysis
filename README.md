@@ -31,10 +31,5 @@ The dataset contains information on:
 ## Visualizations  
 Interactive Tableau Storyboard:  
 [Rockbuster Stealth Tableau Dashboard](https://public.tableau.com/views/Task_3_10SQL_17501078087510/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-"""
 
-# Save to README.md
-output_path = Path("/mnt/data/README_final.md")
-output_path.write_text(new_readme_content, encoding="utf-8")
 
-output_path
