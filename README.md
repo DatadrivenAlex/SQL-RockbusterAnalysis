@@ -1,8 +1,3 @@
-from pathlib import Path
-
-# Define the new README content
-new_readme_content = """# Rockbuster Stealth Analysis  
-
 ## Project Summary  
 Rockbuster Stealth LLC, a global movie rental company with a wide network of physical stores, is transitioning into the online streaming market. The company plans to leverage its existing movie licensing agreements to compete with major players such as Netflix and Amazon Prime.  
 
